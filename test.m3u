@@ -1,0 +1,38 @@
+
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="",爱尔达体育1
+http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="",爱尔达体育1
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="",爱尔达体育1
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="",爱尔达体育2
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+
+#EXTINF:-1,ELEVEN体育一台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
+#EXTINF:-1 ,NBC Sports California
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 ,NBC Sports Chicago HDTV
+
+#EXTINF:-1 ,NBC Sports Chicago HDTV
+http://livex.pop-app.live/s4n/poplive/ch331/playlist.m3u8
+#EXTINF:-1 group-title="NBA",NBA TV HDTV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 group-title="NBA",NBA TV HDTV
+http://41.205.93.154:80/NBA/index.m3u8
+
+#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BY-AREA 
+http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373515475.png", NBC-SPORTS-CALIFORNIA 
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1614263071499.png", NBC-SPORTS-CHICAGO 
+http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373647536.png", NBC-SPORTS-NORTHWEST 
+http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-WASHINGTON 
+http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
+
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
+http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
