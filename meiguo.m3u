@@ -56,7 +56,7 @@ https://lnc-fubo.tubi.video/master.m3u8
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="General",TNT East (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 SNY
+#EXTINF:-1 group-title="Sports",SNY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 group-title="NBA",NBA TV HDTV
 
