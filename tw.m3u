@@ -4,9 +4,9 @@ https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 tvg-id="ELEVEN体育一台" tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育一台.png" group-title="体育",ELEVEN体育一台
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="NBA",爱尔达体育1
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
-http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 #EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="体育",爱尔达体育3
 http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
 #EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育4.png" group-title="体育",爱尔达体育4
