@@ -31,3 +31,71 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png",CP24 (CablePulse 24) HD.ca
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61126
+#EXTM3U
+#EXTINF:-1 group-title="Wild Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="Wild Life" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="Wild Life" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png",Wildlife tv
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1,Investigation Discovery HDTV
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/57412
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Channel
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+#EXTINF:-1 ,History HDTV (East)
+http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF:-1,The Discovery Channel HDTV (East)
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/57409
+#EXTINF:-1,USA - Discovery Life
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/57410
+#EXTINF:-1,USA - ANIMAL PLANET
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58474
+#EXTINF:-1 group-title="" tvg-logo="https://image.roku.com/developer_channels/prod/0040c58f7922ab2791df41039efb6767dc5882f66e36d1179ec274dedf8cd620.png",NASA Television
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 ,Pac-12 Network HDTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8
+#EXTINF:-1 ,KGO
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 ,abc
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 HDTV
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FOX Sports 2
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 2
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/57182
+#EXTINF:-1 group-title="NBA",ESPN HDTV
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="",ESPN HDTV
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://i.imgur.com/00tsvjE.png" ,ESPN2 HDTV
+http://livex.pop-app.live/s4n/poplive/ch329/playlist.m3u8
+#EXTINF:-1 ,ESPN ACCN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 ,ESPN SEC
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" ,Espn News HD
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/57189
+#EXTINF:-1 ,SPORTNET-LA
+http://livex.pop-app.live/s4n/poplive/ch229/playlist.m3u8
+#EXTINF:-1 group-title="NBA" ,NBC Sports Chicago HDTV
+
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602373726316.png" group-title="NBA",NBC Sports Washington HDTV 24/7
+http://41.205.93.154/NBC/index.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked]
+https://lnc-fubo.tubi.video/master.m3u8
+#EXTINF:-1 group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", Turner Network Television HDTV (East)
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="General",TNT East (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Sports",SNY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 group-title="NBA",NBA TV HDTV
+
+#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="" group-title="NBA"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA TV HDTV
+http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="" group-title="NBA"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA TV HDTV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="足球" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fifa%2B.png",Fifa +
+https://bit.ly/3QOfvfG?profile=inspirationFreeTV.m3u8
