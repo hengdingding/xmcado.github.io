@@ -1,16 +1,8 @@
-#EXTINF:-1 group-title="NBA",TSN1 HD.ca
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61554
 #EXTINF:-1 ,CITY Toronto ON HD.ca
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 ,CBC (CBLT) Toronto
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59795
-#EXTINF:-1 ,Fight Network Canada HD.ca
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,Xplore (1080p)
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature.ca
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="加拿大" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg",Love Nature.ca
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png",CP24 (CablePulse 24) HD.ca
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61126
